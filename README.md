@@ -8,4 +8,4 @@ A controlled, tired system that has plaintext usernames, pseudo-random salt, has
 
 SHA-512 stands for Secure Hash Algorithm and is a set of cryptographic hash functions designed by the NSA. It is a novel hash function that is computed with 64-bit words. There are 80 rounds of encryption. 
 
- Attched is a csv file with a test user. The username is 'user1' and the password is 'Password1'.
+ Attched is a csv file with a test user. The username is 'user1' and the password is 'Password1' and has an access level of 1.
