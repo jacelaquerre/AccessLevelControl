@@ -1,6 +1,5 @@
 # Jace Laquerre
-# CS 166
-# Assignment 7
+
 
 import csv
 import hashlib
